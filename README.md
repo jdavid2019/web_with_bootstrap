@@ -4,7 +4,7 @@ Web realizada con bootsrap v 5.0
 Herramientas a utilizar
 
 -https://fonts.google.com
-  Aqui utilizo el estilo Tillium web en dichas medidas
+  Aqui utilizo el estilo Tillium web en dichas medidas <br>
       Light 300
       Regular 400
       Semi-bold 600
