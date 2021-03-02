@@ -10,6 +10,8 @@ Herramientas a utilizar
   <li>Regular 400</li>
   <li>Semi-bold 600</li>
   </ul>
+  -b) https://ionicons.com/usage
+    ionicons->usage y copiamos el link de instalación
       
       
       
