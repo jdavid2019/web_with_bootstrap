@@ -12,8 +12,8 @@ Herramientas a utilizar
   </ul>
   -b) https://ionicons.com/usage
     ionicons->usage y copiamos el link de instalación <br>
-    <a href="#"><script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
-</a>
+         <a href="#"><script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+         </a>
       
       
       
