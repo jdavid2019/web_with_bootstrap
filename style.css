@@ -10,6 +10,7 @@ body{
 
 .nav-link{
  color: #1a1a1a ;
+ font-weight: 600;
 }
 
 .nav-link:hover{
@@ -17,6 +18,6 @@ body{
    }
 
 .logo-brand{
-    width: 140px;
-    height: 70px;
+    min-width: 140px;
+    max-height: 70px;
 }
