@@ -17,6 +17,9 @@ p{
     line-height: 1.8;
     margin-bottom: 0;
 }
+a:hover{
+    text-decoration: none;
+}
 section{
     padding: 120px 0;
 }
@@ -98,6 +101,35 @@ ion-icon {
     padding-top: 15px;
 }
 
+.portafolio-container{
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0;
+    border-radius: 2px;
+}
+
+.portafolio-container img{
+    -moz-transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+    transition: all 0.8s;
+}
+.portafolio-container:hover img{
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform:scale(1.2);
+}
+
+.portafolio-details{
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+    z-index: 9000;
+}
+
+.portafolio-details a h2,.portafolio-details a p {
+    color: white;
+    font-weight: 900;
+}
 @media (max-width: 575.98px) { 
  h1{
      font-size: 40px ;
