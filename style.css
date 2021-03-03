@@ -21,3 +21,19 @@ body{
     min-width: 140px;
     max-height: 70px;
 }
+
+.navbar-toggler{
+    font-size: 30px;
+}
+
+.navbar-toggler:focus{
+    outline: none;
+}
+
+#hero{
+    background-image: url('images/hero3.jpg');
+    background-size: cover;
+    padding-top: 90px;
+    min-height: 700px;
+    color: white;
+}
