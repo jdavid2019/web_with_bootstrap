@@ -107,7 +107,10 @@ ion-icon {
     margin: 10px 0;
     border-radius: 2px;
 }
-
+.img-fluid{
+    width: 550px;
+    height: 300px;
+}
 .portafolio-container img{
     -moz-transition: all 0.8s;
     -webkit-transition: all 0.8s;
