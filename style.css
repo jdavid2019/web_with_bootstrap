@@ -7,11 +7,18 @@ h1{
     font-weight: 600;
     line-height: 80px;
 }
+h2{
+    font-size: 48px;
+    margin-bottom: 30px;
+}
 p{
     font-size: 18px;
     color: #999999;
     line-height: 1.8;
     margin-bottom: 0;
+}
+section{
+    padding: 120px 0;
 }
 .topmargin-xs{
     margin-top: 15px;
@@ -84,6 +91,11 @@ p{
 }
 ion-icon {
     --ionicon-stroke-width: 56px;
+}
+
+.container-fluid{
+    margin-top: 15px;
+    padding-top: 15px;
 }
 
 @media (max-width: 575.98px) { 
