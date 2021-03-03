@@ -27,7 +27,7 @@ section{
     margin-top: 30px;
 }
 .topmargin-lg{
-    margin-top: 60px ;
+    margin-top: 60px !important;
 }
 .btn{
     font-size: 15px;
