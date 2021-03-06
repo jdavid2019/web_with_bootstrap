@@ -2,6 +2,7 @@ body{
     font-family: 'Titillium Web', sans-serif;
 }
 
+
 h1{
     font-size: 66px;
     font-weight: 600;
@@ -20,6 +21,9 @@ p{
     line-height: 1.8;
     margin-bottom: 0;
 }
+.bg-dark{
+    background-color: #1a1a1a !important;
+}
 a ion-icon{
     font-size: 20px;
     color: white;
@@ -31,10 +35,10 @@ section{
     padding: 120px 0;
 }
 .topmargin-xs{
-    margin-top: 15px;
+    margin-top: 15px !important;
 }
 .topmargin-sm{
-    margin-top: 30px;
+    margin-top: 30px !important;
 }
 .topmargin-lg{
     margin-top: 60px !important;
@@ -292,6 +296,22 @@ ion-icon {
         outline: none;
         box-shadow: none;
     }
+
+    #footer{
+        padding: 80px 0;
+        text-align: center;
+        color: white;
+    }
+
+    #footer a , a:hover{
+        color: white;
+    }
+
+    #footer .list-inline .list-inline-item{
+        padding: 10px 15px;
+    }
+
+  
     
 @media (max-width: 575.98px) { 
  h1{
@@ -316,6 +336,13 @@ ion-icon {
 .control-button ion-icon{
     color: black;
     font-size: 30px;
+}
+
+.footer-menu{
+    display: block !important;
+    padding: 20px 0 !important;
+    font-size: 20px;
+    
 }
  }
 
